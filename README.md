@@ -38,7 +38,7 @@
    2.5 Determinants  
    2.6 Inner Product  
    2.7 Triple Product and Cross Product  
-   2.8 Eigenvalues and Eigenvectors  ([Notebook](Examples/I_Linear_Algebra/13_eigenspace.ipynb))
+   2.8 Eigenvalues and Eigenvectors  ([Notebook](Examples/I_Linear_Algebra/12_eigenspace.ipynb))
 3. **Vector Calculus**  
    3.1 Geometry in \(\mathbb{R}^3\): Coordinates  ([Notebook](Examples/I_Linear_Algebra/16_coordinates.ipynb))  
    3.2 Scalar Fields  
