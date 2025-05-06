@@ -25,26 +25,30 @@
 
 ### I. Mathematical Physics I (Spring)
 
-1. **Linear Algebra**  
-   1.1 Algebraic Structures  
-   1.2 Vector Spaces  
-   1.3 Linear Maps  
-   1.4 Matrices  
-   1.5 Determinants  
-   1.6 Inner Product  
-   1.7 Triple Product and Cross Product  
-   1.8 Eigenvalues and Eigenvectors  [Example](Examples/I_Linear_Algebra/coordinates.ipynb)
-2. **Vector Calculus**  
-   2.1 Geometry in \(\mathbb{R}^3\): Coordinates  
-   2.2 Scalar Fields  
-   2.3 Vector Fields & Vector Operators  
-   2.4 Vector Calculus Theorems
+1. **Mathematical Foundations
+   1.1 Elements of Logic
+   1.2 Type of Reasoning
+   1.3. Predicate and Quantifiers
+2. **Linear Algebra**  
+   2.1 Algebraic Structures  
+   2.2 Vector Spaces  
+   2.3 Linear Maps  
+   2.4 Matrices  
+   2.5 Determinants  
+   2.6 Inner Product  
+   2.7 Triple Product and Cross Product  
+   2.8 Eigenvalues and Eigenvectors  ([Notebook](Examples/I_Linear_Algebra/coordinates.ipynb))
+3. **Vector Calculus**  
+   3.1 Geometry in \(\mathbb{R}^3\): Coordinates  ([Notebook](Examples/I_Linear_Algebra/coordinates.ipynb))
+   3.2 Scalar Fields  
+   3.3 Vector Fields & Vector Operators  
+   3.4 Vector Calculus Theorems
 
-3. **Fourier Analysis**
+4. **Fourier Analysis**
 
 ### II. Mathematical Physics II (Fall)
  
- TBD
+ TBD; moslty Differential Equations
 
 ## 🎨 Examples and Illustrations
 
