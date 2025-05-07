@@ -23,6 +23,8 @@
 
 ## 📚 Course Content
 
+Note: the lecture notes will be released when they are ready. 
+
 ### I. Mathematical Physics I (Spring)  
 
 1. **Mathematical Foundations**  
