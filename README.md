@@ -20,17 +20,22 @@
 **Date:** 2025 Spring  
 
 ---
+## 📄 License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## 📚 Course Content
 
-### I. Mathematical Physics I (Spring)
+Note: the lecture notes will be released when they are ready. 
 
-1. **Mathematical Foundations
-   1.1 Elements of Logic
-   1.2 Type of Reasoning
-   1.3. Predicate and Quantifiers
-2. **Linear Algebra**  
-   2.1 Intro
+### I. Mathematical Physics I (Spring)  
+
+1. **Mathematical Foundations**  
+   1.1 Elements of Logic  
+   1.2 Type of Reasoning  
+   1.3. Predicate and Quantifiers  
+2. **Linear Algebra**   
+   2.1 Intro  
    2.1 Algebraic Structures  
    2.2 Vector Spaces  
    2.3 Linear Maps  
@@ -38,20 +43,20 @@
    2.5 Determinants  
    2.6 Inner Product  
    2.7 Triple Product and Cross Product  
-   2.8 Eigenvalues and Eigenvectors  ([Notebook](Examples/I_Linear_Algebra/13_eigenspace.ipynb))
+   2.8 Eigenvalues and Eigenvectors  ([Notebook](Examples/I_Linear_Algebra/13_eigenspace.ipynb))  
 3. **Vector Calculus**  
-   3.1 Geometry in \(\mathbb{R}^3\): Coordinates  ([Notebook](Examples/II_Vector_Calculus/16_coordinates.ipynb))  
+   3.1 Geometry in `ℝ³`: Coordinates  ([Notebook](Examples/II_Vector_Calculus/16_coordinates.ipynb))   
    3.2 Scalar Fields  
    3.3 Vector Fields & Vector Operators  
-   3.4 Vector Calculus Theorems
+   3.4 Vector Calculus Theorems  
 
-4. **Fourier Analysis**
+4. **Fourier Analysis**  
 
-### II. Mathematical Physics II (Fall)
+### II. Mathematical Physics II (Fall)  
  
- TBD; moslty Differential Equations
+ TBD; moslty Differential Equations  
 
-## 🎨 Examples and Illustrations
+## 🎨 Examples and Illustrations 
 
 
 
