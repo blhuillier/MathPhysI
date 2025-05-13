@@ -51,10 +51,10 @@ Note: the lecture notes will be released when they are ready.
    3.4 Vector Calculus Theorems  
 
 4. **Fourier Analysis**  
-   4.1. Fourier Series ([Notebook](Examples/III_Fourier/19_Fourier_series.ipynb))
-   4.2. Fourier Transform
-   4.3. Discrete Fourier Transform
-   4.4. $N$-dimensional Fourier Transform
+   4.1. Fourier Series ([Notebook](Examples/III_Fourier/19_Fourier_series.ipynb))  
+   4.2. Fourier Transform  
+   4.3. Discrete Fourier Transform  
+   4.4. $N$-dimensional Fourier Transform  
 
 ### II. Mathematical Physics II (Fall)  
  
