@@ -56,6 +56,9 @@ Note: the lecture notes will be released when they are ready.
    4.3. Discrete Fourier Transform  
    4.4. $N$-dimensional Fourier Transform  
 
+5. **Differential Equations**
+   5.4 Distributions & Generalized Functions ([Notebook][Examples/IV_DiffEq/Distributions.ipynb])
+
 ### II. Mathematical Physics II (Fall)  
  
  TBD; moslty Differential Equations  
